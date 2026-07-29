@@ -1,12 +1,12 @@
 import { useEffect, useRef, useState } from 'react';
-import Navbar from './components/Navbar';
-import StarField from './components/StarField';
-import Hero from './components/Hero';
-import About from './components/About';
-import Skills from './components/Skills';
-import Projects from './components/Projects';
-import Contact from './components/Contact';
-import Footer from './components/Footer';
+import Navbar from './Navbar';
+import StarField from './StarField';
+import Hero from './Hero';
+import About from './About';
+import Skills from './Skills';
+import Projects from './Projects';
+import Contact from './Contact';
+import Footer from './Footer';
 
 export default function App() {
   const cursorRef = useRef<HTMLDivElement>(null);
