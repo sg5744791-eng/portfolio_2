@@ -115,7 +115,7 @@ export default function Hero() {
             transition: 'all 1s cubic-bezier(0.4,0,0.2,1) 0.65s',
           }}
         >
-          <span style={{ color: 'rgba(192,192,210,0.5)' }}>I'm</span>
+          <span style={{ color: 'rgba(192,192,210,0.5)' }}>We're</span>
           <span
             className="font-semibold"
             style={{ color: '#c4b5fd', minWidth: '260px', textAlign: 'left' }}
@@ -156,7 +156,7 @@ export default function Hero() {
             href="#projects"
             className="btn-primary text-white font-semibold px-8 py-3.5 rounded-full flex items-center gap-2"
           >
-            View My Work
+            View Our Work
             <ArrowDown size={16} />
           </a>
         </div>

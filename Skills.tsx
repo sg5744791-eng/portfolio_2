@@ -111,12 +111,12 @@ export default function Skills() {
             className="reveal delay-2 font-black text-4xl md:text-5xl tracking-tight"
             style={{ fontFamily: 'Space Grotesk, sans-serif' }}
           >
-            <span className="silver-text">My Technical</span>
+            <span className="silver-text">Our Technical</span>
             <br />
             <span className="gradient-text">Expertise</span>
           </h2>
           <p className="reveal delay-3 mt-4 text-base max-w-xl mx-auto" style={{ color: 'rgba(192,192,210,0.5)' }}>
-            A curated set of tools and technologies I've mastered over years of building production applications.
+            A curated set of tools and technologies we've mastered over years of building production applications.
           </p>
         </div>
 

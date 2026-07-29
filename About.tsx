@@ -120,13 +120,13 @@ export default function About() {
               Building things that matter
             </h3>
             <p className="leading-relaxed text-base" style={{ color: 'rgba(192,192,210,0.6)' }}>
-              I'm a passionate full-stack developer with a love for creating elegant, performant web experiences.
-              With over 5 years in the industry, I've had the pleasure of working with startups and enterprises alike,
+              We're passionate full-stack developers with a love for creating elegant, performant web experiences.
+              With over 5 years in the industry, we've had the pleasure of working with startups and enterprises alike,
               helping them craft digital products that their users love.
             </p>
             <p className="leading-relaxed text-base" style={{ color: 'rgba(192,192,210,0.6)' }}>
-              When I'm not pushing pixels or wrangling APIs, you'll find me contributing to open source,
-              exploring new technologies, or mentoring aspiring developers. I believe great software is as much
+              When we're not pushing pixels or wrangling APIs, you'll find us contributing to open source,
+              exploring new technologies, or mentoring aspiring developers. We believe great software is as much
               about the human experience as it is about the technical implementation.
             </p>
 
@@ -143,7 +143,7 @@ export default function About() {
                 Let's Talk
               </a>
               <a href="#projects" className="btn-outline text-sm font-semibold px-6 py-3 rounded-full" style={{ color: 'rgba(192,192,210,0.8)' }}>
-                My Projects
+                Our Projects
               </a>
             </div>
           </div>

@@ -110,7 +110,7 @@ export default function Projects() {
             <span className="gradient-text">Work</span>
           </h2>
           <p className="reveal delay-3 mt-4 text-base max-w-xl mx-auto" style={{ color: 'rgba(192,192,210,0.5)' }}>
-            A collection of projects that showcase my range of skills and passion for crafting excellent software.
+            A collection of projects that showcase our range of skills and passion for crafting excellent software.
           </p>
         </div>
 

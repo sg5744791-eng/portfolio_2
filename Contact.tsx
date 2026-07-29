@@ -47,7 +47,7 @@ export default function Contact() {
             <span className="gradient-text">Something Great</span>
           </h2>
           <p className="reveal delay-3 mt-4 text-base max-w-xl mx-auto" style={{ color: 'rgba(192,192,210,0.5)' }}>
-            Have a project in mind or just want to say hello? I'd love to hear from you.
+            Have a project in mind or just want to say hello? We'd love to hear from you.
           </p>
         </div>
 
@@ -67,7 +67,7 @@ export default function Contact() {
             </h3>
             <p className="text-sm leading-relaxed" style={{ color: 'rgba(192,192,210,0.55)' }}>
               Whether you have a project to discuss, a question to ask, or just want to connect —
-              my inbox is always open.
+              our inbox is always open.
             </p>
           </div>
 
