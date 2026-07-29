@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-import { ArrowDown, Linkedin, Download } from 'lucide-react';
+import { ArrowDown, Linkedin } from 'lucide-react';
 import LinkedInProfiles from './LinkedInProfiles';
 
 const roles = ['a Frontend Developer', 'a Problem Solver'];
@@ -158,14 +158,6 @@ export default function Hero() {
           >
             View My Work
             <ArrowDown size={16} />
-          </a>
-          <a
-            href="#contact"
-            className="btn-outline text-sm font-semibold px-8 py-3.5 rounded-full flex items-center gap-2"
-            style={{ color: 'rgba(192,192,210,0.8)' }}
-          >
-            <Download size={16} />
-            Download CV
           </a>
         </div>
 
